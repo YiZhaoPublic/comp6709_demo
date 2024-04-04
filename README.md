@@ -1,18 +1,16 @@
 ### 1. Dataset 
 ~~~
 cd data
-ll
->>>alpaca_data.json
 ~~~
 
-### 2. generating polished intended prompts
+### 2. Generating Polished Intended Prompts
 ~~~
 python data_sample_processing_gpt3.py
 python data_sample_processing_gpt4.py
 python form_test_samples.py
 ~~~
 
-### 3. Using the original and generated prompts for get text generation
+### 3. Using the original and generated prompts for text generation
 ~~~
 llama:
 python infer_llama_batch.py
@@ -22,7 +20,7 @@ gpt-3.5:
 python test_gpt3.py
 ~~~
 
-### 4. evaluation
+### 4. LLM-based Evaluation
 ~~~
 python evaluation.py
 ~~~
