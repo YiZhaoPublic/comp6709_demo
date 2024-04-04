@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Explain the tri-state buffer.",
+  "new_prompt": "Could you provide a comprehensive explanation of the tri-state buffer, including its design, operating principles, common applications in digital circuits, and how it facilitates data flow control between different components or within an integrated circuit?"
+}

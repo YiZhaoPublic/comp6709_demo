@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Determine the coefficient of x in the expression (2x^2+x+1).",
+  "new_prompt": "Find the coefficient of x in the expression (2x^2+x+1)."
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "ori_prompt": "Name three objects that would be found in a school cafeteria.",
+    "new_prompt": "Identify three common items typically located in a school cafeteria setting."
+  },
+  {
+    "ori_prompt": "Find the word for a feeling of tiredness after doing a hard physical or mental effort.",
+    "new_prompt": "Identify the term that describes the sensation of exhaustion following strenuous physical or mental exertion."
+  },
+  {
+    "ori_prompt": "Make a 5-item list of tips to improve customer service.",
+    "new_prompt": "Generate a comprehensive list of five actionable strategies to enhance customer service quality."
+  },
+  {
+    "ori_prompt": "Describe how one person can make a positive difference in the world.",
+    "new_prompt": "Outline ways in which an individual can effectively contribute to creating positive impacts on a global scale."
+  },
+  {
+    "ori_prompt": "Generate a pun based on the topic \u201celectricity\u201d.",
+    "new_prompt": "Craft a witty pun relating to the theme of \"electricity\"."
+  },
+  {
+    "ori_prompt": "Summarize the presidential powers granted by the Constitution of the United States.",
+    "new_prompt": "Describe the presidential powers outlined in the Constitution of the United States, including executive, legislative, and judicial responsibilities, as well as the limits and checks on these powers."
+  },
+  {
+    "ori_prompt": "Create a story about how you first discovered your passion.",
+    "new_prompt": "Craft a compelling narrative detailing the moment you unearthed your deepest passion."
+  },
+  {
+    "ori_prompt": "Suggest a type of exercise for next week that will help me lose 5 pounds.",
+    "new_prompt": "Recommend an effective exercise routine for next week aimed at achieving a weight loss of 5 pounds."
+  },
+  {
+    "ori_prompt": "Make a list of the main actors in The Lord of the Rings.",
+    "new_prompt": "Provide a comprehensive list of the main actors in the film series \"The Lord of the Rings,\" including their respective characters and notable performances."
+  },
+  {
+    "ori_prompt": "Describe the color and texture of a new cotton shirt",
+    "new_prompt": "Provide a detailed description of the color and texture of a newly purchased cotton shirt, specifying any unique features or patterns present."
+  },
+  {
+    "ori_prompt": "Write a Chinese proverb about freedom.",
+    "new_prompt": "Compose a Chinese proverb that encapsulates the essence of freedom."
+  },
+  {
+    "ori_prompt": "Determine the coefficient of x in the expression (2x^2+x+1).",
+    "new_prompt": "Find the coefficient of x in the expression (2x^2+x+1)."
+  },
+  {
+    "ori_prompt": "Think of a creative title for a story about two best friends living in a peaceful town.",
+    "new_prompt": "Create an intriguing title for a narrative depicting the bond between two best friends thriving in a serene village setting."
+  },
+  {
+    "ori_prompt": "Describe a knight in shining armor",
+    "new_prompt": "Provide a detailed description of a chivalrous knight clad in shining armor, emphasizing their noble attributes, courageous deeds, and valorous adventures."
+  },
+  {
+    "ori_prompt": "Explain why it is important to use dynamic programming instead of naive recursive algorithm.",
+    "new_prompt": "Detail the significance of utilizing dynamic programming over a naive recursive algorithm."
+  },
+  {
+    "ori_prompt": "Create a short poem using the word \"moon\".",
+    "new_prompt": "Compose a brief poem inspired by the ethereal beauty of the moon."
+  },
+  {
+    "ori_prompt": "Suppose you are writing a press release describing the features of a new product. Write the main headline.",
+    "new_prompt": "Craft a compelling headline for a press release outlining the key features of a newly launched product."
+  },
+  {
+    "ori_prompt": "What is the best way to introduce yourself to a group?",
+    "new_prompt": "What are effective strategies for introducing yourself to a group to make a positive first impression and facilitate better interactions?"
+  },
+  {
+    "ori_prompt": "What is the most essential skill to have for a project manager?",
+    "new_prompt": "What key skill is paramount for a project manager's success, encompassing leadership, communication, time management, and problem-solving abilities?"
+  },
+  {
+    "ori_prompt": "Describe the impact of climate change on the environment over the past 20 years.",
+    "new_prompt": "Examine the environmental consequences of climate change within the last two decades, elucidating the shifts in ecosystems, weather patterns, and biodiversity as a result."
+  },
+  {
+    "ori_prompt": "Brainstorm three tactics to deepen customer relationships.",
+    "new_prompt": "Generate three innovative strategies to enhance and strengthen customer relationships."
+  },
+  {
+    "ori_prompt": "Summarize the importance of a valid will.",
+    "new_prompt": "Outline the significance of having a legally valid will in place."
+  },
+  {
+    "ori_prompt": "Identify two technology companies in the United States.",
+    "new_prompt": "Can you name two prominent technology companies based in the United States, providing brief descriptions of their products or services and their impact on the industry?"
+  },
+  {
+    "ori_prompt": "Complete the following sentence: \"If I could change one thing about the world, it would be......\"",
+    "new_prompt": "Extend the following sentence by expressing what specific change you would make to the world: \"If I could change one thing about the world, it would be......\""
+  },
+  {
+    "ori_prompt": "Give me four examples of data visualization tools.",
+    "new_prompt": "Provide four diverse examples of data visualization tools that offer unique features and capabilities."
+  },
+  {
+    "ori_prompt": "Describe one benefit of a home garden.",
+    "new_prompt": "What is one advantage of having a home garden, and how does it contribute to sustainable living practices?"
+  },
+  {
+    "ori_prompt": "List five physical health benefits associated with playing sports.",
+    "new_prompt": "Identify and describe five physical health benefits attributed to engaging in sports activities."
+  },
+  {
+    "ori_prompt": "Describe the tastes and texture of a mango.",
+    "new_prompt": "Provide a detailed description of the flavors and mouthfeel of a mango, including its sweetness, juiciness, and any unique characteristics in taste and texture."
+  },
+  {
+    "ori_prompt": "Create a dialogue between two characters in a TV show.",
+    "new_prompt": "Write a dialogue between two characters in a TV show, incorporating elements of conflict, humor, and character development."
+  },
+  {
+    "ori_prompt": "Summarize the events of World War II in one sentence.",
+    "new_prompt": "Provide a concise summary of the key events that occurred during World War II in a single sentence."
+  },
+  {
+    "ori_prompt": "Tell me a popular movie from the 80's.",
+    "new_prompt": "Please provide a well-known movie from the 1980s, including details on its plot, cast, and impact on pop culture."
+  },
+  {
+    "ori_prompt": "Describe a scientific experiment conducted by Galileo Galilei.",
+    "new_prompt": "Provide a detailed description of a scientific experiment carried out by Galileo Galilei, including the purpose, hypothesis, methods, and key findings."
+  },
+  {
+    "ori_prompt": "Rewrite the sentence \u201cI ate a snack\u201d in the interrogative form.",
+    "new_prompt": "What snack did I eat?"
+  },
+  {
+    "ori_prompt": "Explain the concept of cultural relativism.",
+    "new_prompt": "Define cultural relativism, discussing how it emphasizes the importance of understanding other cultures within their own contexts without judgment or bias."
+  },
+  {
+    "ori_prompt": "Suggest a painting for a nursery wall that will complement blue furniture",
+    "new_prompt": "Recommend a painting that complements blue furniture for a nursery wall, taking into account the room's color scheme and style."
+  },
+  {
+    "ori_prompt": "Come up with a 3-letter acronym for \u201cartificial intelligence\u201d and explain the meaning.",
+    "new_prompt": "Create a 3-letter acronym for \"artificial intelligence\" along with a brief explanation of its meaning and applications."
+  },
+  {
+    "ori_prompt": "List 5 tips for effective job hunting.",
+    "new_prompt": "Provide a comprehensive list of 5 practical tips to enhance the effectiveness of job hunting."
+  },
+  {
+    "ori_prompt": "Summarize the relevance of immigration in the US.",
+    "new_prompt": "Provide a concise overview of the significance of immigration in the United States, detailing its historical, social, economic, and political impact."
+  },
+  {
+    "ori_prompt": "Create a poem from the following words: sunset, mask, distant",
+    "new_prompt": "Compose a poetic piece intertwining the elements of sunset, mask, and distance to evoke a sense of contemplation and longing."
+  },
+  {
+    "ori_prompt": "Explain the meaning of the idiom \"turn a blind eye\".",
+    "new_prompt": "Elaborate on the meaning of the idiom \"turn a blind eye\" and provide examples of its use in context."
+  },
+  {
+    "ori_prompt": "What are two chemical components of water?",
+    "new_prompt": "Identify two chemical components found in water."
+  },
+  {
+    "ori_prompt": "Come up with an antonym for the word \"conservative\".",
+    "new_prompt": "Provide an antonym for the term \"conservative\"."
+  },
+  {
+    "ori_prompt": "Write a short story in which the protagonist encounters a magical creature.",
+    "new_prompt": "Craft a captivating short story where the main character stumbles upon a mystical being, delving into their interaction and the fantastical world they inhabit."
+  },
+  {
+    "ori_prompt": "Suggest a topic that could be discussed in a debate.",
+    "new_prompt": "Propose a debate topic that allows for in-depth discussion and argumentation."
+  },
+  {
+    "ori_prompt": "Generate a sentence using these words: beautiful, garden, peaceful",
+    "new_prompt": "Compose a tranquil sentence that incorporates the words beautiful, garden, and peaceful."
+  },
+  {
+    "ori_prompt": "Describe a character in a novel you have read recently.",
+    "new_prompt": "Provide a detailed description of a character from a novel you have recently read, including their personality traits, motivations, and impact on the story."
+  },
+  {
+    "ori_prompt": "Find the value of x when 3(2x +1) = 15.",
+    "new_prompt": "Determine the value of x in the equation 3(2x + 1) = 15. Consider solving for x using the distributive property and simplifying the expression."
+  },
+  {
+    "ori_prompt": "Convert 2 ounces to milliliters.",
+    "new_prompt": "Convert 2 ounces to milliliters, specifying the conversion factor and any relevant formulas or equations."
+  },
+  {
+    "ori_prompt": "Make a prediction about the impacts of increased air pollution on the global climate",
+    "new_prompt": "Predict the potential consequences of heightened air pollution on the overall climate at a global scale, considering impacts on weather patterns, biodiversity, and human health."
+  },
+  {
+    "ori_prompt": "Generate a sentence that relates to the theme of entrepreneurship",
+    "new_prompt": "Could you construct a sentence that encapsulates the essence of entrepreneurship, highlighting the significance of innovation, risk-taking, and the pursuit of opportunities in the face of challenges?"
+  }
+]

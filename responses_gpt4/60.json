@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Come up with a classification model to determine whether a customer is likely to subscribe to a paid service or not.",
+  "new_prompt": "Design and describe a classification model framework that accurately predicts the likelihood of a customer subscribing to a paid service, incorporating data preprocessing steps, feature selection criteria, the choice of algorithm, model training process, and evaluation metrics to measure the model's performance."
+}

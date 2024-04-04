@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Construct a question-answering system that answers questions related to the U.S. election.",
+  "new_prompt": "Design and describe the architecture of a question-answering system focused on providing accurate and detailed responses to inquiries about the U.S. election process, including information on voting methods, key dates and deadlines for all states, candidate eligibility criteria, and guidelines on how to interpret election results."
+}

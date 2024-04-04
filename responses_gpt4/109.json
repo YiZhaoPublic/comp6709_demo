@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Write a function in C++ to count the number of occurrences of a string inside a longer string.",
+  "new_prompt": "Could you provide a detailed C++ function that accurately counts and returns the number of times a specified substring appears within a given longer string, ensuring that the function handles overlapping occurrences and is optimized for efficiency? Additionally, please include comments within the code to explain the logic and any significant decisions made during the implementation process."
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "ori_prompt": "Identify: What type of scientific method should be used to explore the hypothesis \"The colder the climate, the shorter the lifespan of mosquitoes\"?",
+    "new_prompt": "Could you recommend the most appropriate scientific methodology for investigating the hypothesis \"The colder the climate, the shorter the lifespan of mosquitoes,\" including suggestions for experimental design, data collection techniques, potential variables to control for, and methods for analyzing the collected data?"
+  },
+  {
+    "ori_prompt": "Name three decomposers in a forest ecosystem",
+    "new_prompt": "\"Could you identify and describe the roles of three key decomposers within a forest ecosystem, explaining their importance in nutrient cycling and their impact on the ecosystem's overall health?\""
+  },
+  {
+    "ori_prompt": "Analyze the consequences of a virtual learning environment.",
+    "new_prompt": "Could you provide an in-depth analysis of the repercussions of a virtual learning environment, focusing on its impact on academic performance, social interaction among students, mental health, and adaptability of educators, while also considering how it reshapes traditional teaching and learning paradigms?"
+  },
+  {
+    "ori_prompt": "Explain the importance of networking for a job search.",
+    "new_prompt": "Could you elucidate the significance of networking in the context of job searching, including how it can affect the discovery of job opportunities, the role it plays in gaining insider knowledge about companies, how it contributes to personal brand development, and provide strategies for effectively building and maintaining a professional network?"
+  },
+  {
+    "ori_prompt": "Give three (3) unique examples of alternative energy sources.",
+    "new_prompt": "Could you provide three distinct examples of alternative energy sources, offering a brief explanation of how each works, their environmental impact, and potential applications in modern energy systems?"
+  },
+  {
+    "ori_prompt": "Create a list of five things that a student should avoid in order to succeed in academia.",
+    "new_prompt": "Could you compile a comprehensive list of five critical behaviors or practices that a student should steer clear of to enhance their academic success, including explanations on how each can hinder their progress and suggestions for positive habits to adopt in their place?"
+  },
+  {
+    "ori_prompt": "Describe how the genetic code is read and translated in the synthesis of a protein?",
+    "new_prompt": "Could you explain the process by which the genetic code is read and translated during protein synthesis, including the roles of mRNA, tRNA, and ribosomes, and outline the steps from transcription in the nucleus to translation and polypeptide chain formation in the cytoplasm?"
+  },
+  {
+    "ori_prompt": "Explain what computer memory or RAM is",
+    "new_prompt": "Could you provide a comprehensive explanation of computer memory, also known as RAM, including its function within a computer system, the different types that exist, how it impacts a computer's performance, and a brief overview of its evolution over time?"
+  },
+  {
+    "ori_prompt": "Suggest a business idea that is suitable for a person who lives in a rural area and has limited resources.",
+    "new_prompt": "Could you propose a comprehensive business plan tailored for an individual residing in a rural area with limited financial and material resources, covering ideas that leverage local agricultural products, crafts, or services peculiar to rural settings, and include a basic marketing strategy that utilizes available technology and networks to reach potential customers?"
+  },
+  {
+    "ori_prompt": "Propose a satisfactory solution to manage air pollution.",
+    "new_prompt": "Could you propose a comprehensive and effective strategy for managing air pollution, including specific measures for reducing emissions from various sources (industrial, vehicular, agricultural), technological innovations for pollution control, policy recommendations for government action, and suggestions for community engagement and individual responsibility?"
+  },
+  {
+    "ori_prompt": "Which musical instrument is known as the King of Instruments?",
+    "new_prompt": "Could you provide detailed information on which musical instrument is referred to as the \"King of Instruments,\" including the historical context or reasons behind this designation, as well as a brief overview of its characteristics, significance in various musical genres, and any notable musicians associated with its mastery?"
+  },
+  {
+    "ori_prompt": "What are the economic impacts of the global pandemic?",
+    "new_prompt": "Could you analyze and describe in detail the various economic impacts of the global pandemic, including its effect on global trade, unemployment rates, key industries such as tourism and manufacturing, shifts in consumer behavior, and the role of governmental fiscal policies in mitigating these impacts?"
+  },
+  {
+    "ori_prompt": "Generate a list of five types of jobs someone interested in the environment could pursue.",
+    "new_prompt": "Could you provide a comprehensive list of five careers, including job titles and brief role descriptions, suited for individuals passionate about environmental conservation, detailing the educational requirements and potential impact in each role on sustainability efforts?"
+  },
+  {
+    "ori_prompt": "Make a rule to categorize documents depending on the information they contain.",
+    "new_prompt": "Could you design a comprehensive set of rules for categorizing documents based on the specific type of information they contain, including guidelines for identifying key characteristics such as subject matter, intended audience, document format, and any other relevant criteria that might influence their categorization?"
+  },
+  {
+    "ori_prompt": "Summarize the impact of the First Industrial Revolution on the global economy in one sentence.",
+    "new_prompt": "Provide a concise summary in one sentence of the First Industrial Revolution's influence on the global economy, emphasizing its role in the evolution of manufacturing processes, the global trade dynamics it spurred, and its impact on the socio-economic structure worldwide."
+  },
+  {
+    "ori_prompt": "Tell me the capital of Taiwan.",
+    "new_prompt": "Could you provide the name of the capital city of Taiwan, along with a brief historical overview of its establishment as the capital, and highlight any major cultural, political, or economic significance it holds in the context of Taiwan's national identity?"
+  },
+  {
+    "ori_prompt": "Suggest a few topics for creating a story.",
+    "new_prompt": "Could you propose several engaging and unique story topics, encompassing diverse genres such as fantasy, science fiction, historical fiction, and mystery, and include potential character arcs or plot twists that could enhance the narrative's depth and appeal?"
+  },
+  {
+    "ori_prompt": "Name a nation in Asia that is landlocked.",
+    "new_prompt": "Identify a country within the Asian continent that lacks any sea or ocean boundaries, commonly known as being landlocked, and provide a brief overview of how this geographical feature influences its economy and culture."
+  },
+  {
+    "ori_prompt": "Explain the role of a software engineer",
+    "new_prompt": "Could you provide a comprehensive overview of the responsibilities and roles of a software engineer, including but not limited to their involvement in the development process, typical tasks they undertake, the skills and technical knowledge essential for the profession, and how they collaborate with other team members and stakeholders throughout a project's lifecycle?"
+  },
+  {
+    "ori_prompt": "Automatically correct the grammar in the following sentence: \"The two dogs sleeps in the garden\".",
+    "new_prompt": "Please correct the grammatical error in the sentence \"The two dogs sleeps in the garden\" by adjusting the verb to match the plural subject, and clarify if any context such as time of day or specific activities the dogs engage in while in the garden might impact or add nuance to the correction."
+  },
+  {
+    "ori_prompt": "Generate a creative story about a mysterious creature that lives underwater.",
+    "new_prompt": "Could you craft a captivating short story centered around a unique, mysterious creature that inhabits the depths of the ocean, detailing its appearance, behavior, and interactions with other sea creatures, while also exploring the myths and legends surrounding it from the perspective of the local seaside community?"
+  },
+  {
+    "ori_prompt": "Generate a new slogan for a local business.",
+    "new_prompt": "Create a fresh, catchy slogan for a local business, specifying its industry (e.g., bakery, florist, tech repair) and any unique qualities or services it offers that could differentiate it from competitors, to effectively attract its target audience."
+  },
+  {
+    "ori_prompt": "Compose a piano melody to express energetic joy.",
+    "new_prompt": "Could you compose a piano melody that captures the essence of energetic joy, incorporating uplifting harmonies, lively rhythms, and a progression that builds excitement, while also suggesting any specific techniques or musical elements that effectively convey this emotion?"
+  },
+  {
+    "ori_prompt": "Explain the tri-state buffer.",
+    "new_prompt": "Could you provide a comprehensive explanation of the tri-state buffer, including its design, operating principles, common applications in digital circuits, and how it facilitates data flow control between different components or within an integrated circuit?"
+  },
+  {
+    "ori_prompt": "Classify the following word: democracy",
+    "new_prompt": "Could you provide a comprehensive classification of the term \"democracy,\" including its definition, various forms it takes (such as direct or representative), key characteristics distinguishing it from other governance systems, and examples of countries where it is practiced?"
+  },
+  {
+    "ori_prompt": "Generate a story using the sentence \"The sun was setting\".",
+    "new_prompt": "Could you craft a short narrative that begins with the sentence \"The sun was setting,\" integrating themes of transformation and renewal, and include elements such as vivid descriptions of the environment, the emotional journey of the protagonist, and a conclusion that ties the themes together?"
+  },
+  {
+    "ori_prompt": "Find and describe a website that offers free online books.",
+    "new_prompt": "Could you identify and provide a detailed description of a website that offers a wide range of free online books, including its user interface, genres covered, any necessary account setup or subscription details, and features that enhance reading or user experience, such as note-taking capabilities or customizable reading settings?"
+  },
+  {
+    "ori_prompt": "Develop a potential plan for improving public transportation in the city.",
+    "new_prompt": "Could you devise a comprehensive strategy for enhancing public transportation in the city, including suggestions for expanding service routes, integrating advanced technologies for efficiency, improving accessibility for people with disabilities, recommendations for funding models, and ways to increase ridership through marketing and user experience enhancements?"
+  },
+  {
+    "ori_prompt": "How does email marketing help a business?",
+    "new_prompt": "Could you explain how email marketing contributes to a business's success, detailing its impact on customer engagement, sales conversion rates, brand awareness, and the development of a loyal customer base? Also, could you analyze its cost-effectiveness compared to other marketing strategies?"
+  },
+  {
+    "ori_prompt": "How can someone stay motivated to reach their goals?",
+    "new_prompt": "Could you provide a comprehensive guide on strategies for maintaining motivation towards achieving personal goals, including practical tips on setting realistic objectives, methods for tracking progress, advice on overcoming obstacles and setbacks, and suggestions for cultivating a positive mindset and resilience?"
+  },
+  {
+    "ori_prompt": "Insert the following words into a sentence: barn, destroy, fierce.",
+    "new_prompt": "Craft a narrative sentence that effectively incorporates the following words: \"barn,\" \"destroy,\" and \"fierce,\" ensuring the scenario vividly depicts a situation where these elements are interrelated, such as a fierce storm threatening to destroy an old barn."
+  },
+  {
+    "ori_prompt": "Explain how mathematics is used in engineering",
+    "new_prompt": "Could you provide a comprehensive analysis of how mathematics is integral to various branches of engineering, including but not limited to mechanical, civil, electrical, and chemical engineering? This should encompass specific mathematics concepts and theories applied in each field, example scenarios demonstrating these applications, and insights into how mathematical proficiency contributes to innovation and problem-solving within engineering projects."
+  },
+  {
+    "ori_prompt": "Write a short persuasive essay about the importance of voting.",
+    "new_prompt": "Compose a concise persuasive essay that outlines the significance of voting, incorporating the historical struggle for voting rights, the impact of voting on local and national policies, and how individual votes contribute to the democratic process, to underscore the crucial role voting plays in shaping societies."
+  },
+  {
+    "ori_prompt": "What is the result of multiplying 87 and 183?",
+    "new_prompt": "Could you calculate the product of multiplying the numbers 87 and 183, and also provide a brief explanation of the multiplication process involved?"
+  },
+  {
+    "ori_prompt": "Explain why the color of the sky is blue.",
+    "new_prompt": "Could you provide a comprehensive explanation of why the sky appears blue to the human eye, including a detailed discussion on the scientific principles such as the scattering of light and the role of the Earth's atmosphere in this phenomenon, as well as any relevant theories or experiments that have contributed to our understanding of this occurrence?"
+  },
+  {
+    "ori_prompt": "Describe the political landscape in Turkey.",
+    "new_prompt": "Could you provide a comprehensive analysis of the current political landscape in Turkey, including the dominant political parties, key political figures, recent electoral outcomes, the role of governance structures such as the presidency and parliament, and any significant political movements or events influencing the country's politics?"
+  },
+  {
+    "ori_prompt": "Generate a fashion outfit for a summer day.",
+    "new_prompt": "Could you curate a fashion outfit suitable for a summer day, considering current trend influences, including options for accessories and footwear, and suggest attire variations for both a casual outing and a more formal event?"
+  },
+  {
+    "ori_prompt": "Cite a health risk associated with drinking too much coffee.",
+    "new_prompt": "Identify and explain a specific health risk, including potential symptoms and long-term effects, associated with excessive consumption of coffee, considering scientific research and studies to support your explanation."
+  },
+  {
+    "ori_prompt": "Name five common plants found in a desert.",
+    "new_prompt": "Could you identify and describe five common plants typically found in desert ecosystems, including information on their unique adaptations to arid conditions, and any notable roles they play in their habitat's ecological balance?"
+  },
+  {
+    "ori_prompt": "Describe the change-of-base formula in mathematics.",
+    "new_prompt": "Could you provide a detailed explanation of the change-of-base formula used in logarithms, including its mathematical expression, a step-by-step guide on how to apply it for converting between different logarithmic bases, and examples demonstrating its practical applications in solving logarithmic equations?"
+  },
+  {
+    "ori_prompt": "Describe the company culture of Amazon",
+    "new_prompt": "Could you provide an in-depth analysis of Amazon's company culture, including insights into its leadership principles, work environment, employee engagement strategies, and how it promotes innovation and diversity within the workplace?"
+  },
+  {
+    "ori_prompt": "Recommend a tool for creating visual timelines.",
+    "new_prompt": "Could you suggest a user-friendly tool specifically designed for creating detailed visual timelines, that supports both historical events and project planning, and includes features for customization, sharing capabilities, and integration with other software or platforms?"
+  },
+  {
+    "ori_prompt": "Compile a list of 5 US states located in the Mid West.",
+    "new_prompt": "Identify and compile a detailed list of 5 U.S. states that are geographically located in the Midwest region, including a brief overview of each state's unique cultural or historical significance, major cities, and notable landmarks or attractions."
+  },
+  {
+    "ori_prompt": "Write a function in C++ to count the number of occurrences of a string inside a longer string.",
+    "new_prompt": "Could you provide a detailed C++ function that accurately counts and returns the number of times a specified substring appears within a given longer string, ensuring that the function handles overlapping occurrences and is optimized for efficiency? Additionally, please include comments within the code to explain the logic and any significant decisions made during the implementation process."
+  },
+  {
+    "ori_prompt": "Output a list of a different kind of fruits",
+    "new_prompt": "Could you generate a comprehensive list of various types of fruits, categorizing them by their common properties such as tropical, temperate, or exotic origins, and include a brief description of their flavor profiles and nutritional benefits?"
+  },
+  {
+    "ori_prompt": "Compose an email to invite your friends to a party.",
+    "new_prompt": "Could you draft a personalized and engaging email to invite my friends to a themed party, including essential details such as the date, time, location, theme description, dress code, RSVP instructions, and any other special instructions or requests to ensure a memorable and organized event?"
+  },
+  {
+    "ori_prompt": "Change the following sentence to past tense: \"Jim studies physics at college\".",
+    "new_prompt": "Revise the sentence \"Jim studies physics at college\" into past tense, ensuring the transformation accurately reflects past activities or states of being, while maintaining the sentence's original meaning."
+  },
+  {
+    "ori_prompt": "Evaluate the effectiveness of using solo adverts for marketing a product.",
+    "new_prompt": "Could you analyze and assess the effectiveness of utilizing solo adverts as a marketing strategy for promoting a product, including their potential reach, conversion rates, cost-effectiveness compared to other marketing channels, and any specific scenarios or types of products for which they would be particularly beneficial or not recommended?"
+  },
+  {
+    "ori_prompt": "Create an email subject line for an advertisement.",
+    "new_prompt": "Develop an engaging email subject line for a promotional advertisement, ensuring it captures the essence of the offer, targets the intended audience effectively, and encourages high open rates."
+  },
+  {
+    "ori_prompt": "Explain how to create a balanced stock portfolio.",
+    "new_prompt": "Could you provide a comprehensive guide on creating a balanced stock portfolio, including strategies for diversification across different sectors and regions, tips on asset allocation based on risk tolerance and investment goals, and suggestions for periodic portfolio review and rebalancing procedures?"
+  }
+]

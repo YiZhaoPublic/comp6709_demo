@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Automatically correct the grammar in the following sentence: \"The two dogs sleeps in the garden\".",
+  "new_prompt": "Please correct the grammatical error in the sentence \"The two dogs sleeps in the garden\" by adjusting the verb to match the plural subject, and clarify if any context such as time of day or specific activities the dogs engage in while in the garden might impact or add nuance to the correction."
+}

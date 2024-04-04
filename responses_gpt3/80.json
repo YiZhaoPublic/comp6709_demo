@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Evaluate the following polynomial 3x2 + 6x - 5",
+  "new_prompt": "Perform a thorough evaluation of the polynomial 3x^2 + 6x - 5, including determining its roots, vertex, and identifying any critical points."
+}

@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Write a code snippet that prints the first n prime numbers.",
+  "new_prompt": "Create a code snippet that generates and prints the first n prime numbers."
+}

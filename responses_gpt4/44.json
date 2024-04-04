@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Determine whether the following statement is true or false: The temperature of water will always increase when it is heated.",
+  "new_prompt": "Evaluate the statement's accuracy by discussing the conditions under which the temperature of water increases upon heating, and examine any exceptions, such as phase changes or the impact of pressure, that might influence the outcome differently."
+}

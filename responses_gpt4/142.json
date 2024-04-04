@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Make a rule to categorize documents depending on the information they contain.",
+  "new_prompt": "Could you design a comprehensive set of rules for categorizing documents based on the specific type of information they contain, including guidelines for identifying key characteristics such as subject matter, intended audience, document format, and any other relevant criteria that might influence their categorization?"
+}

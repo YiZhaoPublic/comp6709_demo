@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Create a data table to compare the average price of a house in Arizona and Nebraska.",
+  "new_prompt": "Could you construct a comprehensive data table that compares the average price of a house in Arizona and Nebraska, including columns for the average price in each state, the percentage difference in price between the two states, and any notable trends in housing prices over the past five years? Additionally, provide a brief analysis of the data summarizing the key findings and potential reasons for any significant differences observed."
+}

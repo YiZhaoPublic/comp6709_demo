@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Calculate the median of the following numbers: 2, 5, 4, 7",
+  "new_prompt": "Determine the median from the numbers 2, 5, 4, and 7."
+}

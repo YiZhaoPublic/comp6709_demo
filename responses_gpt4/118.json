@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Classify the following list as either a positive or negative emotion:  amazed, joyful, scared, excited",
+  "new_prompt": "Analyze and categorize each emotion from the provided list - amazed, joyful, scared, excited - by determining whether it fundamentally represents a positive or negative emotional state, ensuring the rationale behind each classification is clearly explained based on psychological perspectives on emotional responses."
+}

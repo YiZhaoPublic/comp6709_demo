@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Determine if the following sentence is in the simple or the perfect tense: I have celebrated my birthday.",
+  "new_prompt": "Analyze the given sentence, \"I have celebrated my birthday,\" and identify whether it is constructed in the simple tense or the perfect tense, providing a brief explanation on the characteristics that led to your determination."
+}

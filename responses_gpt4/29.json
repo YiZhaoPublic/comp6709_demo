@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Group the following words into adjective, verb and noun:\n\"decide, interesting, chair\"",
+  "new_prompt": "\"Classify the given words 'decide,' 'interesting,' and 'chair' into their correct parts of speech categories\u2014adjective, verb, and noun\u2014providing a brief explanation for the placement of each word into its respective category.\""
+}

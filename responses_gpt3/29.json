@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Develop a machine learning algorithm to identify spam emails.",
+  "new_prompt": "Design a machine learning algorithm that accurately detects and filters out spam emails, incorporating feature engineering, data preprocessing techniques, model selection, and evaluation metrics to enhance performance."
+}

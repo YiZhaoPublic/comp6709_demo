@@ -1,0 +1,4 @@
+{
+  "ori_prompt": "Find the total cost of 3 items priced at $10, $25 and $50",
+  "new_prompt": "Could you calculate the total cost, including any applicable sales tax, of purchasing three items priced at $10, $25, and $50, assuming a sales tax rate of 8%? Please provide a detailed breakdown of the individual item costs with tax included, followed by the grand total."
+}
